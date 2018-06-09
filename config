@@ -1,0 +1,2 @@
+Notepad ++ >>run>>
+cmd /k python "$(FULL_CURRENT_PATH)" & ECHO. & PAUSE & EXIT
